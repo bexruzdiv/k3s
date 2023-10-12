@@ -1,7 +1,7 @@
 FROM node:17-alpine
 WORKDIR /app
 RUN npm install express
-COPY packege.json .
+COPY package.json .
 RUN npm install
 COPY . .
 EXPOSE 3000
