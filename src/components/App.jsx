@@ -25,7 +25,7 @@ function App() {
     return (
         <div className="container">
             <div className="heading">
-                <h1>To-Do List</h1>
+                <h1>To-Dossss List</h1>
             </div>
             <div className="form">
                 <input onChange={handleChange} type="text" value={inputText} />
