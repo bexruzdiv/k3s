@@ -34,5 +34,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A Todo List Webapp created using React",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bexruzdiv/k3s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bexruzdiv/k3s/issues"
+  },
+  "homepage": "https://github.com/bexruzdiv/k3s#readme"
 }
